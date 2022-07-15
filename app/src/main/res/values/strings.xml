@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="counter1">counter1</string>
+    <string name="counter2">counter2</string>
+    <string name="counter3">counter3</string>
+    <string name="counter4">counter4</string>
+    <string name="counter5">counter5</string>
+    <string name="counter6">counter6</string>
+    <string name="counter7">counter7</string>
+    <string name="counter8">counter8</string>
+    <string name="counter9">counter9</string>
+
+</resources>
